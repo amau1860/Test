@@ -1,0 +1,121 @@
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmAddStudentType.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmAssignSubject.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmClassCreation.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmMDIForm.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmSchoolSetting.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmSetClassFee.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmSettingMenus.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.Frm_Schoolsetting.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+C:\Users\Vipin\Desktop\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\Vipin\Desktop\SMS\SMS\bin\Debug\SMS.pdb
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmSubjectMaster.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.exe
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.pdb
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmNewStudent.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmMotherTounge.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmCasteSettings.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmCategoryMaster.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmCityMaster.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmCountryMaster.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmDocuments.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmNationality.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmReligionMaster.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmStateMaster.resources
+C:\Users\Vipin\Desktop\SMS\SMS\obj\Debug\SMS.frmSubCasteSettings.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.exe
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.pdb
+C:\Users\APS\Desktop\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\APS\Desktop\SMS\SMS\bin\Debug\SMS.pdb
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmAddStudentType.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmAssignSubject.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmCasteSettings.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmCategoryMaster.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmCityMaster.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmClassCreation.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmCountryMaster.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmDocuments.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmMDIForm.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmMotherTounge.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmNationality.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmNewStudent.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmReligionMaster.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmSchoolSetting.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmSetClassFee.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmSettingMenus.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmStateMaster.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmStudentsDetail_.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmSubCasteSettings.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmSubjectMaster.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.Frm_Schoolsetting.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmAdmissionCancellation.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmStudentAttendence.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmBonafideCertificate.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmLeavingCertificate.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmPeriodSettings.resources
+C:\Users\APS\Desktop\SMS\SMS\obj\Debug\SMS.frmFeeTransaction.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\bin\Debug\SMS.exe
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\bin\Debug\SMS.pdb
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmExamMenu.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmstockName.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmAddStudentType.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmAdmissionCancellation.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmAssignSubject.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmBonafideCertificate.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmBusFeeCollection.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmBusSettings.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmCasteSettings.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmCategoryMaster.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmCityMaster.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmClassCreation.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmCountryMaster.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmDealerRegistration.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmDepartmentSetting.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmDocuments.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmDriverDetail_s.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmExamTimeTable.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmExamType.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmFeeTransaction.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmLeavingCertificate.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmMDIForm.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmMotherTounge.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmNationality.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmNewStudent.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmPeriodSettings.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmPickupPoint.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmPramoteStudent.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmReligionMaster.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmResult.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmRouteSetting.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmSchoolSetting.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmSetClassFee.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmSettingMenus.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmStaffRegistration.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmStateMaster.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmStockIn.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmStockManagementMenu.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmStockOut.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmStockReturn.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmStockType.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmStudentAttendence.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmStudentsDetail_.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmSubCasteSettings.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmSubjectMaster.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmTransportationMenu.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmStudentAllocation.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.Frm_Schoolsetting.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.Properties.Resources.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.exe
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.pdb
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmAddbookDetails.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmAddPublication.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmBookIssued.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmLiabraryManagementMenu.resources
+C:\Users\Vipin\Desktop\SMS By Vipin\SMS\obj\Debug\SMS.frmreturnBooks.resources
